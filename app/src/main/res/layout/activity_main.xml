@@ -40,6 +40,6 @@
             android:id="@+id/btnAdd"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="add user" />
+            android:text="add name" />
     </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
